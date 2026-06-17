@@ -23,7 +23,6 @@ az provider register --namespace Microsoft.ContainerService --wait | Out-Null
 az provider register --namespace Microsoft.ApiManagement --wait | Out-Null
 az provider register --namespace Microsoft.DocumentDB --wait | Out-Null
 
-
 # ================================
 # AKS (HARD FAIL)
 # ================================
